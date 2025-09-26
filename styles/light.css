@@ -18,18 +18,6 @@
   --bg-image: url(../images/cover-image-light.png);
 }
 
-.theme-light .page { 
-  --accent-main-header-color: #FFC2E6;
-  --accent-main-header-shadow-color: #FF8DCB;
-  --theme-font-color: #353430;
-  --bg-color: #FFF1F7;
-  --main-text-color: #353430;
-  --accent-bg-color: #FF8DCB;
-  --accent-text-color: #353430;
-  --section-title-color: #353430;
-  --bg-image: url(../images/cover-image-light.png);
-}
-
 .theme-light .decorative-rec-indicator {
   display: none;
 }
