@@ -162,10 +162,14 @@
 }
 
 .section-title {
-  font-size: var(--main-font-size, 18px);
+  font-size: clamp(18px, 3vw, 26px);
   font-weight: bold;
   background-color: var(--accent-bg-color, #FF0070);
   color: var(--accent-text-color, #000028);
+}
+
+p {
+  font-size: clamp(14px, 2vw, 18px);
 }
 
 .accent-title {
